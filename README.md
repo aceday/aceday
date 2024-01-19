@@ -5,3 +5,5 @@
 - 🌱 I’m currently learning **Frameworks, Websites, Generator**
 
 - ⚡ Fun fact **i am slient**
+
+- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aceday&" alt="aceday" /></p>
